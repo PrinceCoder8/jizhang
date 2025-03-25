@@ -3,7 +3,7 @@ TG记账机器人,飞机记账机器人,telegram记账机器人,usdt记账机器
 
 记账机器人测试：https://t.me/jizhang8888bot
 
-购买联系：https://t.me/usddswapusdt
+购买联系：https://t.me/princekf01bot
 
 后台可查看记账明细，可导出记账，多账单记账，可设置授权使用，公开使用，管理员使用等权限。带后台，网页账单等等功能，增加群组报备功能
 群组可直接发送波场地址，可查询地址余额，多签，授权，usdt交易，trx交易情况
