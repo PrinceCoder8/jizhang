@@ -1,5 +1,5 @@
 # 记账机器人，telegram记账机器人
-TG记账机器人,飞机记账机器人,telegram记账机器人,usdt记账机器人 
+TG记账机器人,飞机记账机器人,telegram记账机器人,usdt记账机器人，多币种记账
 
 独立部署版机器人：https://t.me/jizhang8888bot
 
