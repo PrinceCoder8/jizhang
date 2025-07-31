@@ -3,7 +3,7 @@ TG记账机器人,飞机记账机器人,telegram记账机器人,usdt记账机器
 
 独立部署版机器人：https://t.me/jizhang8888bot
 
-克隆版机器人：https://t.me/jizhang88888_bot
+克隆版机器人（自助克隆）：https://t.me/jizhang88888_bot
 
 购买联系：https://t.me/princekf01bot
 
