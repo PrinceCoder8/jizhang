@@ -1,9 +1,9 @@
 # 记账机器人，telegram记账机器人
-TG记账机器人,飞机记账机器人,telegram记账机器人,usdt记账机器人，多币种记账
+TG记账机器人,飞机记账机器人,telegram记账机器人,usdt记账机器人，多币种记账，广播功能，查地址余额等
 
-独立部署版机器人：https://t.me/jizhang8888bot
+克隆版机器人（自助克隆），按视频教程克隆自己的独立机器人，免费测试2天，自助在机器人上面续费即可，所有功能可设置：https://t.me/jizhang88888_bot
 
-克隆版机器人（自助克隆）：https://t.me/jizhang88888_bot
+功能介绍说明：https://t.me/quannengjizhang
 
 购买联系：https://t.me/princekf01bot
 
